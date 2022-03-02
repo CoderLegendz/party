@@ -1,0 +1,20 @@
+body{
+ text-align:center;
+}
+#happy{
+  width:50px;
+  border-radius:20%;
+}
+
+#story{
+  background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,143,0,1) 15%, rgba(251,255,0,1) 32%, rgba(29,255,0,1) 47%, rgba(0,140,255,1) 60%, rgba(0,24,255,1) 73%, rgba(126,0,255,1) 86%);
+  padding:20px;
+  font-size:20px;
+}
+#co{
+  border-radius:2%;
+}
+.line{
+  background-color:white;
+  height:5px;
+}
